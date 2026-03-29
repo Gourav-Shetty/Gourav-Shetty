@@ -1,4 +1,4 @@
-# hey, I'm Gourav 👋
+# Hey, I'm Gourav 👋
 
 CS/IS engineering student who likes building things, breaking things, and hosting things myself.
 
