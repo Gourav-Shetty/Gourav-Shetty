@@ -26,4 +26,3 @@ CS/IS engineering student who likes building things, breaking things, and hostin
 - 🐧 I replace things with Linux before I learn what I'm replacing
 - 🏠 self-hosted over cloud when possible
 - 🔧 if it runs on a server, I probably want to host it myself
-```
