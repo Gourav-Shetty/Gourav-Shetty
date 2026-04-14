@@ -82,9 +82,11 @@ status:   open to collabs & cool projects ●
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav-Shetty&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gourav-Shetty&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Shetty&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gourav-Shetty&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gourav-Shetty&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=ffffff&dates=888888)
 
 </div>
 
